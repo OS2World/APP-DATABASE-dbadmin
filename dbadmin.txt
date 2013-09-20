@@ -1,0 +1,23 @@
+            Archive Name: dbadmin-1.0.1.zip
+       Short Description: OS/2 executable of dbadmin utility.
+        Long Description: a CGI to administer mSQL databases (it was developed for
+			  1.x versions of mSQL) remotely from a web browser.
+
+      Proposed directory
+           for placement: /pub/os2/apps/database/
+
+               Your name: Maurilio Longo
+           Email address: md2520@mclink.it
+    Program contact name: (none)
+   Program contact email: (none)
+             Program URL: (none)
+
+      Would you like the
+   contact email address
+    included in listings? no
+
+Operating System/Version: OS/2 Warp 4 or 3
+ Additional requirements: EMX, mSQL 2.0.x, a web server and a web browser.
+
+                Replaces: (none)
+
